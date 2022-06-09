@@ -1,0 +1,88 @@
+body{
+    background-color:rgb(8, 76, 106);
+    font-family: monospace 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+}
+#head{
+    color:rgb(183, 227, 255);
+    text-align: center;
+    border-bottom: 1px solid rgb(0, 136, 255);
+}
+.para1{
+    color: rgb(19, 19, 19);
+    margin:1rem;
+    font-weight: bold;
+    font-size:large;   
+    background-color: rgb(101, 217, 232);
+}
+.para2{
+    color:rgb(0, 2, 12);
+    margin:1rem;
+    font-weight: bold;
+    font-size:large;
+    background-color: rgb(46, 181, 181);
+}
+.para3{
+    color: rgb(10, 10, 10);
+    margin:1rem;
+    font-weight: bold;
+    font-size:large;
+    background-color: rgb(30, 105, 105);
+}
+h2{
+    color:rgb(190, 231, 255);
+    margin:3rem;
+    text-align: center;
+}
+.pics{
+    margin-bottom: 2rem;
+    display: flex;
+}
+.img{
+    width:17rem;
+    height:23rem;
+    padding:0.3rem;
+    border-radius:0.7rem;
+}
+.cap{
+    color:white;
+    font-weight: bolder;
+}
+.ta{
+    border:3px solid white;
+    padding:0.4rem;
+}
+td{
+    color: white;
+    padding:0.2rem;
+}
+#img1{
+    margin-top:1.8rem;
+    height:50%;
+    width:70%;
+    padding:0.3rem;
+}
+#developers{
+    color: white;
+    margin:1rem;
+    text-align: center;
+}
+ #hid{
+    color:rgb(13, 13, 13);
+    background-color: rgb(240, 234, 234);
+    border-radius:2%;
+    border: none;
+    height:2rem;
+    width: 4.2rem;
+}
+#show{
+    color:rgb(243, 242, 242);
+    background-color: black;
+    border-radius:2%;
+    border: none;
+    height:2rem;
+    width: 4.2rem;
+} 
+#team:hover{
+    color:rgb(7, 31, 92);
+}
